@@ -1,5 +1,6 @@
 # Atividade9
 
+```
 trigger AccountT3 on Account (before insert, before update, after insert) {
     
     //Trigger vai agir antes da inserção de dados.
@@ -73,3 +74,4 @@ trigger AccountT3 on Account (before insert, before update, after insert) {
         }
     }
 }
+```
